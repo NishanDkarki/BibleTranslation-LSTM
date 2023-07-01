@@ -1,5 +1,5 @@
 # BibleTranslation-LSTM
-This is a project with the objective to generate language translation across multiple languages.
+This is a Machine Learning project with the objective to generate language translation across multiple languages.
 
 Running the model
 The model was created in the Jupyter Notebook.
